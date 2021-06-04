@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Lab goals and outcomes:
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-lab9/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Part 1: Create Learning Lab course/repo within your GitHub account
+- Part 2: Practice exiting and returning to the course from course repo
+- Part 3: Work through course
+- Part 4: Download completed course repo as deliverable
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What I learned 
 
-### Markdown
+In this lab we lwarned how to create a a released based workflow. I went through a course in Guthub to learn how to do it. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-lab9/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/83984264/120869204-c64b2f80-c54a-11eb-81be-c2148cbd85f8.png)
